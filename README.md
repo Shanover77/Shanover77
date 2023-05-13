@@ -48,9 +48,3 @@
 <img align="right" height="88" src="https://media.giphy.com/media/tuCFp8rod0x3O/giphy.gif"  />
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Shanover77/Shanover77/output/snake.svg" alt="Snake animation" />
-
-###

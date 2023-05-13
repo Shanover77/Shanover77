@@ -14,14 +14,6 @@
 
 ###
 
-<br clear="both">
-
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Shanover77.Shanover77&left_text=anon visits"  />
-</div>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo"  />
@@ -51,7 +43,7 @@
 
 ###
 
-<img align="right" height="131" src="https://media.giphy.com/media/tuCFp8rod0x3O/giphy.gif"  />
+<img align="right" height="88" src="https://media.giphy.com/media/tuCFp8rod0x3O/giphy.gif"  />
 
 ###
 

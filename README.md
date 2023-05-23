@@ -1,18 +1,51 @@
-<h1 align="center">Hi 👋, I'm Shanover S.</h1>
-<h3 align="center">Full stack developer | AI/ML Engineer | probably an entrepreneur</h3>
+# Welcome to My GitHub Profile!
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.hackerrank.com/shanoversaiyed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shanoversaiyed" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shanover" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shanover" height="30" width="40" /></a>
-</p>
+## About Me
+I'm a passionate developer with over 4 years of experience in web development. I love building user-friendly and performant applications. My expertise lies in front-end development using modern frameworks like React and Angular.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://quasar.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" alt="quasar" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+## Projects
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shanover77&show_icons=true&locale=en&layout=compact" alt="shanover77" /></p>
+### Project 1: AwesomeApp
+![AwesomeApp Screenshot](screenshots/awesomeapp.png)
+- Description: AwesomeApp is a feature-rich web application that allows users to manage tasks, collaborate with teammates, and track project progress.
+- Technologies: React, Redux, Node.js, MongoDB
+- Live Demo: [https://awesomeapp.com](https://awesomeapp.com)
+- Repository: [https://github.com/yourusername/awesomeapp](https://github.com/yourusername/awesomeapp)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shanover77&show_icons=true&locale=en" alt="shanover77" /></p>
+### Project 2: DataVis
+![DataVis GIF](gifs/datavis.gif)
+- Description: DataVis is a data visualization tool that helps users explore complex datasets through interactive charts and graphs.
+- Technologies: D3.js, Python, Flask
+- Live Demo: [https://datavis.com](https://datavis.com)
+- Repository: [https://github.com/yourusername/datavis](https://github.com/yourusername/datavis)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shanover77&" alt="shanover77" /></p>
+## Skills
+- Front-end development: HTML, CSS, JavaScript, React, Angular
+- Back-end development: Node.js, Express, MongoDB
+- Data visualization: D3.js, Plotly
+- Version control: Git, GitHub
+
+## Achievements
+- Recipient of the "Innovative Project Award" at the XYZ Hackathon 2022
+- Speaker at the ABC Tech Conference 2021, presenting on "Front-end Performance Optimization Techniques"
+
+## Contributions
+- Active contributor to the open-source project XYZ Framework
+- Member of the community of developers at DevCommunity, actively providing support and assistance to fellow developers
+
+## Contact Me
+- Email: yourname@example.com
+- Twitter: [@yourusername](https://twitter.com/yourusername)
+- LinkedIn: [Your Name](https://www.linkedin.com/in/yourname)
+
+## Let's Connect
+- Personal Website: [https://yourname.com](https://yourname.com)
+- Dev.to: [@yourusername](https://dev.to/yourusername)
+
+## License
+This project is licensed under the [MIT License](LICENSE).
+
+## Credits
+- Icons made by [Freepik](https://www.freepik.com) from [www.flaticon.com](https://www.flaticon.com)
+- Chart visualizations powered by [Chart.js](https://www.chartjs.org)
 

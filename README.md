@@ -1,7 +1,13 @@
-# Welcome to My GitHub Profile!
+# Shanover
 
 ## About Me
-I'm a passionate developer with over 4 years of experience in web development. I love building user-friendly and performant applications. My expertise lies in front-end development using modern frameworks like React and Angular.
+🚀 What? Who? am I?
+
+An experienced professional with 4 years of experience as a full stack developer. Currently obtaining a PG certificate in AI. Started coding since 14. Extremely logical, team-friendly, highly creative and problem solver person, that's what I am. 😎
+
+🛌💭 AI has been my distant dream for a while, but now I am able realize it. So hit me up if you have an opportunity as such!
+
+Oh, and I am based in Toronto, CA 🍁
 
 ## Projects
 
@@ -26,21 +32,18 @@ I'm a passionate developer with over 4 years of experience in web development. I
 - Version control: Git, GitHub
 
 ## Achievements
-- Recipient of the "Innovative Project Award" at the XYZ Hackathon 2022
-- Speaker at the ABC Tech Conference 2021, presenting on "Front-end Performance Optimization Techniques"
+- Recipient of the fundings from 'RBC Founders Program 2023' alongside partner at Windsor University
 
 ## Contributions
-- Active contributor to the open-source project XYZ Framework
-- Member of the community of developers at DevCommunity, actively providing support and assistance to fellow developers
+- Active contributor to npm pacakges, published panda-ate and panda-string packages
+- Articles on dev.to
 
 ## Contact Me
-- Email: yourname@example.com
-- Twitter: [@yourusername](https://twitter.com/yourusername)
 - LinkedIn: [Your Name](https://www.linkedin.com/in/yourname)
 
 ## Let's Connect
-- Personal Website: [https://yourname.com](https://yourname.com)
-- Dev.to: [@yourusername](https://dev.to/yourusername)
+- Personal Website: [https://shanover.dev](https://shanover.dev)
+- Dev.to: [@shanover77](https://dev.to/shanover77)
 
 ## License
 This project is licensed under the [MIT License](LICENSE).

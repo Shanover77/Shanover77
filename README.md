@@ -17,7 +17,7 @@
         <img src="https://img.shields.io/badge/hackerrank-%1B9C85" alt="hackerrank">
     </a>
     <a href="https://shanover.dev">
-        <img src="https://img.shields.io/badge/My--Portfolio-%E76161" alt="My Portfolio">
+        <img src="https://img.shields.io/badge/My-Portfolio-%E06469" alt="My Portfolio">
     </a>
 </p>
 

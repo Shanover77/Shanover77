@@ -42,6 +42,9 @@
 ### Technologies & Frameworks
 <!-- [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/Shanover77) -->
 [![Vue](https://img.shields.io/badge/vuejs-black?style=for-the-badge&logo=vuejs)](https://github.com/Shanover77)
+[![Firebase](https://img.shields.io/badge/firebase-black?style=for-the-badge&logo=firebase)](https://github.com/Shanover77)
+[![OpenAI](https://img.shields.io/badge/openai-black?style=for-the-badge&logo=openai)](https://github.com/Shanover77)
+[![HuggingFace](https://img.shields.io/badge/huggingface-black?style=for-the-badge&logo=huggingface)](https://huggingface.co/shanover)
 [![Supabase](https://img.shields.io/badge/supabase-black?style=for-the-badge&logo=supabase)](https://github.com/Shanover77)
 [![Netlify](https://img.shields.io/badge/netlify-black?style=for-the-badge&logo=netlify)](https://github.com/Shanover77)
 [![Vercel](https://img.shields.io/badge/vercel-black?style=for-the-badge&logo=vercel)](https://github.com/Shanover77)

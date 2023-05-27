@@ -1,6 +1,8 @@
 <h1 align="center">Yo <img src="https://github.com/Shanover77/Shanover77/imgs/hello_anim" width="28px" alt="👋"></h1>
 
+
 <p align="center"><i>
+        <img src="https://github.com/Shanover77/Shanover77/imgs/avatar.gif" width="40px" alt="">
         I'm Shanover.<br>
         Full stack developer and AI/ML Engineer (EOY2024). Goal is to apply AI/ML in real-world problems<br>
         Burning the mid-night oil 🕛🔥<br>

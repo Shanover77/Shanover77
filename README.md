@@ -1,8 +1,6 @@
 <h1 align="center">Yo <img src="https://github.com/Shanover77/Shanover77/imgs/hello_anim.gif" width="28px" alt="👋"></h1>
 
-<p align="center">
-    
-    <i>
+<p align="center"><i>
         I'm Shanover.<br>
         Full stack developer and upcoming AI/ML Engineer. Goal is to apply AI/ML in real-world problems<br>
         Buring the mid-night oil<br>
@@ -16,9 +14,6 @@
     <a href="https://www.hackerrank.com/challenges/saveprincess2/leaderboard">
         <img src="https://img.shields.io/badge/hackerrank-%1B9C85" alt="hackerrank">
     </a>
-    <!-- <a href="https://leetcode.com/Shanover77">
-        <img src="https://img.shields.io/badge/LeetCode-blue?style=flat-square&logo=LeetCode" alt="LeetCode">
-    </a> -->
 </p>
 
 ### Languages

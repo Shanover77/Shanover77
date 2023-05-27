@@ -2,7 +2,7 @@
 
 
 <p align="center"><i>
-        <img src="https://github.com/Shanover77/Shanover77/blob/139e35bb8094376f80293796a5b231c394c70353/imgs/avatar.gif" width="36px" alt="👋">
+        <img src="https://github.com/Shanover77/Shanover77/blob/139e35bb8094376f80293796a5b231c394c70353/imgs/avatar.gif" width="106px" alt="👋"><br/>
         I'm Shanover.<br>
         Full stack developer and AI/ML Engineer (EOY2024). Goal is to apply AI/ML in real-world problems<br>
         Burning the mid-night oil 🕛🔥<br>

@@ -17,7 +17,7 @@
         <img src="https://img.shields.io/badge/hackerrank-%1B9C85" alt="hackerrank">
     </a>
     <a href="https://shanover.dev">
-        <img src="https://img.shields.io/badge/shanover.dev-%E06469" alt="shanover.dev">
+        <img src="https://img.shields.io/badge/shanover.dev-%2300f" alt="shanover.dev">
     </a>
 </p>
 

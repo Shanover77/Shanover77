@@ -27,8 +27,11 @@
 ### ML/DL
 [![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/Shanover77)
 [![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)](https://github.com/Shanover77)
-[![MLFlow](https://img.shields.io/badge/mlflow-black?style=for-the-badge&logo=numpy&logoColor=blue)](https://github.com/Shanover77)
+<!-- [![MLFlow](https://img.shields.io/badge/mlflow-black?style=for-the-badge&logo=numpy&logoColor=blue)](https://github.com/Shanover77) -->
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-black?style=for-the-badge&logo=scikit-learn)](https://github.com/Shanover77)
+[![NLTK](https://img.shields.io/badge/nltk-black?style=for-the-badge&logo=nltk)](https://github.com/Shanover77)
+[![Seaborn](https://img.shields.io/badge/seaborn-black?style=for-the-badge&logo=[![Seaborn](https://img.shields.io/badge/seaborn-black?style=for-the-badge&logo=scikit-learn)](https://github.com/Shanover77)
+)](https://github.com/Shanover77)
 [![Tensorflow](https://img.shields.io/badge/Tensorflow-black?style=for-the-badge&logo=Tensorflow)](https://github.com/Shanover77)
 [![LangChain](https://img.shields.io/badge/langchain-black?style=for-the-badge&logo=langchain)](https://github.com/Shanover77)
 [![NLPCloud](https://img.shields.io/badge/nlpcloud-black?style=for-the-badge&logo=nlpcloud)](https://github.com/Shanover77)

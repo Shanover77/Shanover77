@@ -2,8 +2,8 @@
 
 <p align="center"><i>
         I'm Shanover.<br>
-        Full stack developer and upcoming AI/ML Engineer. Goal is to apply AI/ML in real-world problems<br>
-        Buring the mid-night oil<br>
+        Full stack developer and AI/ML Engineer (EOY2024). Goal is to apply AI/ML in real-world problems<br>
+        Burning the mid-night oil 🕛🔥<br>
     </i><br>
     <a href="https://www.linkedin.com/in/shanover-saiyed">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">

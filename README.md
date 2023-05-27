@@ -1,4 +1,4 @@
-<h1 align="center">Yo <img src="https://github.com/Shanover77/Shanover77/imgs/hello_anim.gif" width="28px" alt="👋"></h1>
+<h1 align="center">Yo <img src="https://github.com/Shanover77/Shanover77/imgs/hello_anim" width="28px" alt="👋"></h1>
 
 <p align="center"><i>
         I'm Shanover.<br>

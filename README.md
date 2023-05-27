@@ -20,12 +20,9 @@
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Shanover77)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/Shanover77)
 [![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/Shanover77)
-<!-- [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/Shanover77) -->
-<!-- [![Clojure](https://img.shields.io/badge/clojure-black?style=for-the-badge&logo=clojure)](https://github.com/Shanover77) -->
-[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/Shanover77)
-[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/Shanover77)
-<!-- [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/Shanover77) -->
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/Shanover77)
+[![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://github.com/Shanover77)
+[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/Shanover77)
 
 ### ML/DL
 [![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/Shanover77)
@@ -44,7 +41,7 @@
 [![Vue](https://img.shields.io/badge/vuejs-black?style=for-the-badge&logo=vuejs)](https://github.com/Shanover77)
 [![Firebase](https://img.shields.io/badge/firebase-black?style=for-the-badge&logo=firebase)](https://github.com/Shanover77)
 [![OpenAI](https://img.shields.io/badge/openai-black?style=for-the-badge&logo=openai)](https://github.com/Shanover77)
-[![HuggingFace](https://img.shields.io/badge/huggingface-black?style=for-the-badge&logo=huggingface)](https://huggingface.co/shanover)
+[![🤗HuggingFace](https://img.shields.io/badge/huggingface-black?style=for-the-badge&logo=huggingface)](https://huggingface.co/shanover)
 [![Supabase](https://img.shields.io/badge/supabase-black?style=for-the-badge&logo=supabase)](https://github.com/Shanover77)
 [![Netlify](https://img.shields.io/badge/netlify-black?style=for-the-badge&logo=netlify)](https://github.com/Shanover77)
 [![Vercel](https://img.shields.io/badge/vercel-black?style=for-the-badge&logo=vercel)](https://github.com/Shanover77)

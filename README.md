@@ -31,6 +31,7 @@
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/Shanover77)
 
 ### ML/DL
+[![Prompt Engineering](https://img.shields.io/badge/openai-black?style=for-the-badge&logo=openai)](https://github.com/Shanover77)
 [![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/Shanover77)
 [![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)](https://github.com/Shanover77)
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-black?style=for-the-badge&logo=scikit-learn)](https://github.com/Shanover77)

@@ -46,7 +46,7 @@
 
 ### Technologies & Frameworks
 <!-- [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/Shanover77) -->
-[![Vue](https://img.shields.io/badge/vuejs-black?style=for-the-badge&logo=vuejs)](https://github.com/Shanover77)
+[![Vue](https://img.shields.io/badge/vuejs-black?style=for-the-badge&logo=vue.js)](https://github.com/Shanover77)
 [![Firebase](https://img.shields.io/badge/firebase-black?style=for-the-badge&logo=firebase)](https://github.com/Shanover77)
 [![OpenAI](https://img.shields.io/badge/openai-black?style=for-the-badge&logo=openai)](https://github.com/Shanover77)
 [![🤗HuggingFace](https://img.shields.io/badge/huggingface-black?style=for-the-badge&logo=huggingface)](https://huggingface.co/shanover)

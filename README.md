@@ -50,6 +50,9 @@
 [![OpenAI](https://img.shields.io/badge/openai-black?style=for-the-badge&logo=openai)](https://github.com/Shanover77)
 [![🤗HuggingFace](https://img.shields.io/badge/huggingface-black?style=for-the-badge&logo=huggingface)](https://huggingface.co/shanover)
 [![Supabase](https://img.shields.io/badge/supabase-black?style=for-the-badge&logo=supabase)](https://github.com/Shanover77)
+
+
+### DevOps/CI/CD
 [![Netlify](https://img.shields.io/badge/netlify-black?style=for-the-badge&logo=netlify)](https://github.com/Shanover77)
 [![Vercel](https://img.shields.io/badge/vercel-black?style=for-the-badge&logo=vercel)](https://github.com/Shanover77)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/Shanover77)

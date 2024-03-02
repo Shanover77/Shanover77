@@ -1,5 +1,18 @@
-<h1 align="center">Yo <img src="https://github.com/Shanover77/Shanover77/blob/e38d93e1cae0f38c257a364e80cb2692a9edc6ed/imgs/hello_anim.gif" width="28px" alt="👋"></h1>
+# Hello, World! 👋
 
+Welcome to my GitHub profile! I believe in the power of applied knowledge and the importance of compassion as common sense.
+
+## About Me
+
+I am passionate about leveraging technology to make a positive impact on the world. My journey involves continuous learning and applying knowledge to solve real-world problems.
+
+## Motto
+
+"Applied knowledge is power, compassion is common sense."
+
+Feel free to explore my repositories and projects. If you have any questions or want to collaborate, don't hesitate to reach out!
+
+Happy coding! 🚀
 
 <p align="center"><i>
         <!-- <img src="https://github.com/Shanover77/Shanover77/blob/139e35bb8094376f80293796a5b231c394c70353/imgs/avatar.gif" width="106px" alt="👋"><br/> -->
